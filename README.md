@@ -1,1 +1,3 @@
 # udacity-ml-nanodegree
+
+This repository houses projects containing Python modules and Jupyter Notebooks for the Udacity Machine Learning Engineer Nanodegree course, which I completed in April 2020. There are 4 main projects, with the capstone located in the folder marked "Project". This folder contains a PDF of the final report documenting the full process from planning to results. All helper files, relevant data sets and image files are included. Code frameworks are provided by Udacity with my own personal contributions generally indicated with TODO markers. All notebooks here are intended for use in a AWS SageMaker Python3 environment, as well as up to 30MB S3 storage space.
